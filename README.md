@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">A passionate backend developer from BRAZIL</h3>
+<h3 align="center">
+I'm a Brazilian student in the 2nd semester of Information Systems at the Federal Institute of Sergipe (IFS), passionate about backend development and Java programming. I have experience with Java and a focus on backend systems, always aiming to create innovative solutions for real-world challenges. Recently, I earned 3rd place in the Mackaton 2024 at IFS</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
